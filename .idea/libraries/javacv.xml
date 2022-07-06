@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="javacv">
+    <CLASSES>
+      <root url="jar:///usr/share/java/javacv-platform-1.5.7-bin/javacv.jar!/" />
+      <root url="jar:///usr/share/java/javacv-platform-1.5.7-bin/opencv.jar!/" />
+      <root url="jar:///usr/share/java/javacv-platform-1.5.7-bin/openblas.jar!/" />
+      <root url="jar:///usr/share/java/javacv-platform-1.5.7-bin/openblas-platform.jar!/" />
+      <root url="jar:///usr/share/java/javacv-platform-1.5.7-bin/openblas-linux-x86_64.jar!/" />
+      <root url="jar:///usr/share/java/javacv-platform-1.5.7-bin/opencv-linux-x86_64.jar!/" />
+      <root url="jar:///usr/share/java/javacv-platform-1.5.7-bin/opencv-platform.jar!/" />
+      <root url="jar:///usr/share/java/javacv-platform-1.5.7-bin/javacpp.jar!/" />
+      <root url="jar:///usr/share/java/javacv-platform-1.5.7-bin/javacpp-linux-x86_64.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file:///usr/lib/jni" />
+      <root url="file:///usr/lib/x86_64-linux-gnu" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
